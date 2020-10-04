@@ -31,3 +31,5 @@ elif x=='4':
     Division(a,b)
 elif x=='5':
     Modula(a,b)
+else:
+    print('Not a valid input')
